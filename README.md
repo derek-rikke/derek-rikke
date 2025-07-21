@@ -31,5 +31,4 @@
 ### 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/derek-rikke/)  
-- [GitHub](https://github.com/derek-rikke)  
 - 📧 derek.rikke@gmail.com
